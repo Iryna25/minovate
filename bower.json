@@ -1,0 +1,18 @@
+{
+  "name": "markupus-gulp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "djvang <djvang92@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/djvang/markupus-gulp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
